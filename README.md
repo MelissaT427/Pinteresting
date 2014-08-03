@@ -1,6 +1,6 @@
 # Melissa Terrell
 
 This is the pinteresting sample application for 
-[*One Month Rails] (www.onemonthrails.com)
+Melissa. Crap this is hard. 
 
 by Melissa Terrell
