@@ -1,4 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Quicksand:400,700);
+
+
 $body-bg: 		#9b59b6;
+$font-family-sans-serif: 'Quicksand' , 'Helvetica Neue' , Helvetica, Arial, Sans-serif;
 $navbar-default-bg:		#8e44ad;
 $navbar-default-link-color:		#F2E6F2;
 $jumbotron-padding:		20px;
@@ -7,3 +11,11 @@ $jumbotron-bg:		black;
 $btn-default-color: 	#690EA1;
 
 @import 'bootstrap';
+
+.center {
+	text-align:	center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
